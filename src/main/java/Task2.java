@@ -11,6 +11,7 @@ public class Task2 {
         boolean booleanValue = true;
         char charValue = '\'';
 
+        
         System.out.println(byteValue);
         System.out.println(shortValue);
         System.out.println(intValue);
